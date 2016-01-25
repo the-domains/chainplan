@@ -4,7 +4,7 @@
         <description><![CDATA[Chainplan - Your Supply Chain Solution]]></description>
         <link>https://thegrid.ai/chainplan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 03:02:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jan 2016 03:05:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chainplan/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -21,8 +21,14 @@
             <pubDate>Mon, 25 Jan 2016 02:57:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/chainplan/6ef70642-39bc-44bc-8e8a-5fbbe02fce2a/index.html</link>
+            <guid isPermaLink="false">6ef70642-39bc-44bc-8e8a-5fbbe02fce2a</guid>
+            <pubDate>Mon, 25 Jan 2016 03:04:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[PRODUCT SOURCING]]></title>
-            <description><![CDATA[<h1>PRODUCT SOURCING</h1>]]></description>
+            <description><![CDATA[<article><h1>PRODUCT SOURCING</h1><p>With a team of highly experienced sourcing specialists located among the world’s most prominent manufacturing hubs, we have the skills and expertise in the right place to help you where it counts. Product sourcing can be difficult, especially if you are not on the ground, in factories regularly, yet this is commonly a foundation step to the entire business process.  </p></article>]]></description>
             <link>https://thegrid.ai/chainplan/product-sourcing/index.html</link>
             <guid isPermaLink="false">43c7dc3a-9cd0-4cb5-ab7b-d0dfad30a56d</guid>
             <pubDate>Mon, 25 Jan 2016 03:02:17 GMT</pubDate>
@@ -68,13 +74,6 @@
             <link>https://thegrid.ai/chainplan/0d2e653a-be3b-49ab-b728-b9f97164c71d/index.html</link>
             <guid isPermaLink="false">0d2e653a-be3b-49ab-b728-b9f97164c71d</guid>
             <pubDate>Mon, 25 Jan 2016 02:56:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/75ca0f64-1110-4f82-96a5-2182658a8810.jpg">]]></description>
-            <link>https://thegrid.ai/chainplan/91edd1ef-6378-4a40-91c3-4193e46cd742/index.html</link>
-            <guid isPermaLink="false">91edd1ef-6378-4a40-91c3-4193e46cd742</guid>
-            <pubDate>Mon, 25 Jan 2016 02:33:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
