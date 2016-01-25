@@ -4,7 +4,7 @@
         <description><![CDATA[Chainplan - Your Supply Chain Solution]]></description>
         <link>https://thegrid.ai/chainplan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 03:07:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jan 2016 03:08:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chainplan/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/chainplan/ee76c13a-d8cb-43dc-8068-766c76b30825/index.html</link>
             <guid isPermaLink="false">ee76c13a-d8cb-43dc-8068-766c76b30825</guid>
             <pubDate>Mon, 25 Jan 2016 02:57:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Your Blue Chip, High Street Retailer]]></title>
+            <description><![CDATA[<article><h1>Your Blue Chip, High Street Retailer</h1><p>Ligentia has partnered one of the UK’s flagship department-store retailers for 15+ years.  Ligentix is at the heart of their global supply chain solution, enhancing visibility and control through every aspect of procurement, logistics and distribution across multiple categories.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5aca2d9-17ef-4ed2-be15-63d373f5732d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/chainplan/0e37b61c-f07c-4d39-8513-e556131a70de/index.html</link>
+            <guid isPermaLink="false">0e37b61c-f07c-4d39-8513-e556131a70de</guid>
+            <pubDate>Mon, 25 Jan 2016 03:08:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Constantly adding value..]]></title>
@@ -67,13 +74,6 @@
             <link>https://thegrid.ai/chainplan/f019336d-f59e-4aab-befe-65c1a25027b2/index.html</link>
             <guid isPermaLink="false">f019336d-f59e-4aab-befe-65c1a25027b2</guid>
             <pubDate>Mon, 25 Jan 2016 02:57:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[critical path management]]></title>
-            <description><![CDATA[<article><h1>critical path management</h1><p>Critical Path management is often viewed as nothing more than dry spreadsheets, project management software and time consuming, laborious and complicated processes. With potentially thousands of orders and millions of products it is easy to be overwhelmed by the sheer scale of the supply chain process.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/249916a4823ee01a52242cb10222b8b7515c43fa.jpg"></article>]]></description>
-            <link>https://thegrid.ai/chainplan/critical-path-management/index.html</link>
-            <guid isPermaLink="false">27362534-5393-455d-b609-15bd365d6c38</guid>
-            <pubDate>Mon, 25 Jan 2016 02:57:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
