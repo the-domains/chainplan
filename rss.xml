@@ -4,7 +4,7 @@
         <description><![CDATA[Chainplan - Your Supply Chain Solution]]></description>
         <link>https://thegrid.ai/chainplan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 03:10:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jan 2016 03:14:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chainplan/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/chainplan/ee76c13a-d8cb-43dc-8068-766c76b30825/index.html</link>
             <guid isPermaLink="false">ee76c13a-d8cb-43dc-8068-766c76b30825</guid>
             <pubDate>Mon, 25 Jan 2016 02:57:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chainplan Asia Ltd,]]></title>
+            <description><![CDATA[<article><h1>Chainplan Asia Ltd,</h1><h2>chainplan asia</h2><p>Unit 8B, 8/F,</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6bc4601d-d425-4b00-b7f8-2a71ff885a96.jpg"></article>]]></description>
+            <link>https://thegrid.ai/chainplan/chainplan-asia-ltd/index.html</link>
+            <guid isPermaLink="false">01ffed7c-ec9f-45ea-bd6d-3c534be938d3</guid>
+            <pubDate>Mon, 25 Jan 2016 03:14:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[opportunity  innovation  optimisation  scm excellence]]></title>
@@ -67,13 +74,6 @@
             <link>https://thegrid.ai/chainplan/we-are-big-on-exception-management/index.html</link>
             <guid isPermaLink="false">483db3da-67cd-468a-816d-03b75b66c22d</guid>
             <pubDate>Mon, 25 Jan 2016 03:00:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Product Lifecycle Management]]></title>
-            <description><![CDATA[<article><h1>Product Lifecycle Management</h1><p>The process is straightforward and our expert trainers will be on hand to guide you through customising Liantix to your environment and business needs.</p></article>]]></description>
-            <link>https://thegrid.ai/chainplan/product-lifecycle-management/index.html</link>
-            <guid isPermaLink="false">88a8e2ed-f482-4202-960b-f8f00f0bc1f3</guid>
-            <pubDate>Mon, 25 Jan 2016 02:59:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
