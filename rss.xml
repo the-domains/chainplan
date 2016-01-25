@@ -4,7 +4,7 @@
         <description><![CDATA[Chainplan - Your Supply Chain Solution]]></description>
         <link>https://thegrid.ai/chainplan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 03:05:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jan 2016 03:07:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chainplan/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/chainplan/ee76c13a-d8cb-43dc-8068-766c76b30825/index.html</link>
             <guid isPermaLink="false">ee76c13a-d8cb-43dc-8068-766c76b30825</guid>
             <pubDate>Mon, 25 Jan 2016 02:57:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Constantly adding value..]]></title>
+            <description><![CDATA[<article><h1>Constantly adding value..</h1><p>Our award winning, omni-channel, stationary retail customer had a supply chain process which worked well but did not have the necessary visibility to make informed decision making at key milestones in the supply chain process.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a792423e355c18e4b2f01ec6f5852558692c6eb.jpg"></article>]]></description>
+            <link>https://thegrid.ai/chainplan/43c59f86-ffe9-4a29-8634-2e545977b36c/index.html</link>
+            <guid isPermaLink="false">43c59f86-ffe9-4a29-8634-2e545977b36c</guid>
+            <pubDate>Mon, 25 Jan 2016 03:07:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <link>https://thegrid.ai/chainplan/critical-path-management/index.html</link>
             <guid isPermaLink="false">27362534-5393-455d-b609-15bd365d6c38</guid>
             <pubDate>Mon, 25 Jan 2016 02:57:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Working with Chainplan means you are working with a company that understands your business needs. We strive to bring you the most innovative solutions, using our worldwide expertise to bring you the latest ideas and process improvements from every part of the world.</p>]]></description>
-            <link>https://thegrid.ai/chainplan/0d2e653a-be3b-49ab-b728-b9f97164c71d/index.html</link>
-            <guid isPermaLink="false">0d2e653a-be3b-49ab-b728-b9f97164c71d</guid>
-            <pubDate>Mon, 25 Jan 2016 02:56:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
