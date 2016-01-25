@@ -1,0 +1,28 @@
+name: Chainplan
+favicon: null
+layout_spectrum: 0.2590327018406242
+typography_spectrum: 0.15734647656790912
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.024969411315396428
+  lightness: 0.19970409525558352
+  saturation: 0.9747298371512443
+  rhythmicContrast: 0.04454348515719175
+purpose: []
